@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/admin",
+    "/admin/categories",
+    "/admin/items",
+    "/admin/login",
+    "/menu"
+  ]
+}
